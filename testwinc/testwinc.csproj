@@ -21,7 +21,7 @@
     <ManifestCertificateThumbprint>BC13C6BB20C682B5CCDBD13CD8B42986145ACA87</ManifestCertificateThumbprint>
     <ManifestKeyFile>testwinc_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>

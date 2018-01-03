@@ -30,7 +30,7 @@ namespace testwinc.capvideo
 
         private static readonly String StrCapPicTime = "cappictime";//抓取间隔，初始值12，在配置文件确定
         private static int iCapTime = 12;//每隔12小时抓取一次，初始值12，具体根据配置文件确定
-        public static Boolean isAutoRun = false;  // 抓取线程是不是已经在运行////
+        public static Boolean isAutoRun = false;  // 抓取线程是不是已经在运行>////
 
         //static int timetmp = 5;
 
