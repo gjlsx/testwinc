@@ -17,7 +17,7 @@ namespace testwinc.capvideo
         private static WindForm wf = null;
         private static MovieMember vmb = null;
         private static readonly String start = "=\"info2_box\"";//数据页面开始
-       // private static readonly String start2 = "class=\"items\">";
+       // private static readonly String start2 = "class=\"items\">";////
         //  private static readonly String strpage = ">上一页<";
         private static readonly String strend = ">下一页<";// ">下一页</a>";
         private static String sUrl = ""; 
