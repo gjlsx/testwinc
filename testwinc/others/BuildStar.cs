@@ -38,7 +38,7 @@ namespace testwinc.others
             SqlDataAdapter cmd = null;
             DataSet ds = null;
             SqlDataReader dr1 = null;  //只能用于读，要更新需要再开一个连接
-           // SqlDataReader dr2 = null;  //只能用于读，需要更新需要开一个连接
+           // SqlDataReader dr2 = null;  //只能用于读，需要更新需要开一个新连接
 
 
             try
