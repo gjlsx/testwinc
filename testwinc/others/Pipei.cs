@@ -389,5 +389,5 @@ namespace testwinc.capvideo
             return false;
         }
 
-    }//end Pipei
+    }// Pipei class end
 }
