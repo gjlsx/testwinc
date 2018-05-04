@@ -43,6 +43,10 @@ namespace testwinc.tools
 
         private static String[] SqlStrSplit = null;
 
+        public static String sDBUrlrain =
+            @"Server=.\sql2014;database=test;uid=sa;pwd=gj";        
+
+
 
         static Apis()
         {

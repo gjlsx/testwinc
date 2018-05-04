@@ -42,7 +42,8 @@ namespace testwinc.test
             {
                 wf.getBtngo().Enabled = false;
 
-
+                // TestXML txml = new TestXML();
+                //txml.readXML2("");
 
                 UseStatic.sout(1001 / 200);
 
@@ -83,6 +84,10 @@ namespace testwinc.test
                 UseStatic.sout(DateTime.Now.ToString("MMdd-hh:mm"));
 
                 UseStatic.sout(Apitool.md5Run32("771230"));
+
+               //TestDbo tdb = new TestDbo();
+               // tdb.run();
+
                 //UseStatic.sout("ass is " + ass );
 
                 //Boolean isCappptv= true;//标志是否抓取pptv
@@ -160,9 +165,6 @@ namespace testwinc.test
                 wf.getBtngo().Enabled = true;
             }
         }//end runtest
-
-       
-
 
 
         private static void isInDb()
